@@ -1,7 +1,7 @@
 #key = file.wav/file.mp3, volume (0.n || +ndB)
-7 = diddy.mp3, 0.7
-8 = vine-boom.mp3
-9 = all-goofy-sounds.mp3, 0.4
-0 = bell.mp3
+7 = diddy.mp3, 0.3
+8 = vine-boom.mp3, 0.5
+9 = all-goofy-sounds.mp3, 0.2
+0 = bell.mp3, 0.5
 
 
